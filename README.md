@@ -1,29 +1,28 @@
-Hi there! 👋 I'm RAM ASHISH YADAV 🚀
+🚀 Hi, I'm Ram Ashish Yadav | MERN Stack Developer
+I am a Full-Stack Developer specializing in the MERN Stack and SQL. I focus on building scalable, interactive, and user-centric web applications. With a strong foundation in frontend performance and real-time backend architecture, I enjoy solving complex problems through clean, maintainable code.
 
+🛠️ Technical Ecosystem
+Frontend: React.js, Next.js, Redux Toolkit, Tailwind CSS, Material-UI, HTML5, CSS3, JavaScript (ES6+).
 
-Welcome to my GitHub profile! I am a React Frontend Developer excited to build interactive, user-friendly web applications. As a fresher in the tech industry, I am constantly learning, exploring, and creating projects that reflect my passion for frontend development.
+Backend: Node.js, Express.js, Socket.io (Real-time communication).
 
+Databases: MongoDB (NoSQL), MySQL / PostgreSQL (Relational/SQL).
 
+Tools & Platforms: Git, GitHub, Postman, Supabase, Geospatial Queries.
 
+🌟 Featured Projects
+Women’s Safety Platform: A real-time safety application built with the MERN stack, utilizing Geospatial queries and Socket.io for live location tracking and emergency alerts.
 
-🌟 About Me
+Professional Portfolio: A high-performance personal branding site built with React and Tailwind CSS, featuring smooth scroll animations, a contact form with email integration, and a dynamic display of technical projects.
 
-💻 I specialize in React.js, JavaScript (ES6+), and crafting beautiful interfaces with HTML5 and CSS3.
+Air India Flight Engine: A full-stack flight booking system featuring payment integration, seat selection, and real-time booking status.
 
-🎨 I love building responsive and visually appealing web designs using Tailwind CSS, Bootstrap, and Material-UI.
+Twitch Clone: A high-performance streaming interface built with Next.js and Supabase, focused on modern UI/UX and seamless authentication.
 
-🌱 Currently diving deeper into Redux, Next.js, and API integration.
+🌱 Learning & Growth
+Current Focus: Mastering Data Structures & Algorithms (DSA) and System Design to build more efficient and scalable architectures.
 
-🌍 Open to collaborating on exciting projects and contributing to open-source.
+Exploring: Deepening my expertise in Next.js server-side rendering and complex SQL query optimization.
 
-
-
-🛠️ Skills
-
-Languages: JavaScript, HTML, CSS
-
-Frameworks & Libraries: React.js, Redux, Tailwind CSS, Bootstrap, Material-UI
-
-Tools & Platforms: Git/GitHub, VS Code, Chrome DevTools
-
-API Integration: RESTful APIs, Axios
+🤝 Let's Collaborate
+I am actively looking for opportunities in fast-paced development teams and am open to collaborating on open-source projects or innovative startup ideas.
